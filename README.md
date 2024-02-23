@@ -16,7 +16,7 @@ Welcome to FilmzSpot, the Movie and TV Show Exploration Project! This project is
 - **React**: A popular JavaScript library for building user interfaces.
 - **Redux**: Redux is used for state management, allowing for efficient data flow throughout the application.
 - **React Router**: React Router is used for declarative routing, enabling navigation between different pages of the application.
-- **API Integration**: The project integrates with [TMDB](https://www.themoviedb.org/) API to fetch movie and TV show data, including information such as genres, ratings, and recommendations.
+- **API Integration**: The project integrates with [TMDB](https://developer.themoviedb.org/docs/getting-started) API to fetch movie and TV show data, including information such as genres, ratings, and recommendations.
 - **Lazy Loading**: Images and content are lazy-loaded to improve performance and reduce initial load times.
 
 ## Installation
@@ -26,7 +26,7 @@ To run the project locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal.
 3. Run `npm install` to install the project dependencies.
-4. Create a account on [TMDB](https://www.themoviedb.org/).
+4. Create a account on [TMDB](https://developer.themoviedb.org/docs/getting-started).
 5. Obtain your API token from TMDB.
 6. Create a .env file in the project root directory.
 7. Add your TMDB API token to the .env file using the following format: VITE_APP_TOKEN_TMDB=your_token_here.
