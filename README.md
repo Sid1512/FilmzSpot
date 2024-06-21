@@ -35,4 +35,4 @@ To run the project locally, follow these steps:
 
 ## Credits
 
-This project was created by Siddharth. Special thanks to [TMDB](https://www.themoviedb.org/) for their amazing API.
+This project was created by Siddharth. Special thanks to [TMDB]([https://www.themoviedb.org/](https://developer.themoviedb.org/docs/getting-started)) for their amazing API.
